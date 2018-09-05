@@ -1,6 +1,6 @@
 { 
 	"name": "opmlToGitHub", 
-	"description": "Test the code to upload an OPML file to github as markdown",
+	"description": "A Node app that reads an OPML file, converts it to Markdown, and uploads it to GitHub.",
 	"author": "Dave Winer <dave@smallpicture.com>",
 	"version": "0.4.0",
 	"main": "opmltogithub.js",

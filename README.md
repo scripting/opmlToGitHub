@@ -1,6 +1,6 @@
 # opmlToGitHub
 
-A Node demo app that reads an OPML file, converts it to Markdown, and uploads it to GitHub. 
+A Node app that reads an OPML file, converts it to Markdown, and uploads it to GitHub. 
 
 ### Why
 
